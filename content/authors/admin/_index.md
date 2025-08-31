@@ -13,8 +13,8 @@ last_name: Wang
 pronouns: He/Him
 
 # # Status emoji
-# status:
-#   icon: ☕️
+status:
+  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -68,24 +68,24 @@ education:
     institution: The Hong Kong Polytechnic University
     date_start: 2017-09-01
     date_end: 2019-01-31
-    # summary: |
-    #   GPA: 3.8/4.0
+    summary: |
+      GPA: 3.8/4.0
 
-    #   Courses included:
-    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
-    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
-    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Courses included:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: BEng Mechanical Engineering
     institution: Shandong University
     date_start: 2013-09-01
     date_end: 2017-6-31
-    # summary: |
-    #   GPA: 3.4/4.0
+    summary: |
+      GPA: 3.4/4.0
       
-    #   Courses included:
-    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
-    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
-    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Courses included:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Postdoctoral Fellow
     company_name: Georgia Institute of Technology
