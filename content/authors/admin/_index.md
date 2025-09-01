@@ -61,9 +61,9 @@ education:
     date_end: 2024-08-31
     summary: |
       Supervised by [Prof Shahin Shahrampour](https://example.com).
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+    # button:
+    #   text: 'Read Thesis'
+    #   url: 'https://example.com'
   - area: MS Manufacturing Systems Engineering & Management
     institution: The Hong Kong Polytechnic University
     date_start: 2017-09-01
@@ -93,19 +93,19 @@ work:
     company_logo: ''
     date_start: 2024-09-01
     date_end: ''
-    summary: |
+    summary: |2-
       Co-supervised by [Prof Yu Ding](https://example.com) and [Prof Xiao Liu](https://example.com).
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  # - position: Backend Software Engineer
+  #   company_name: X
+  #   company_url: ''
+  #   company_logo: ''
+  #   date_start: 2016-01-01
+  #   date_end: 2020-12-31
+  #   summary: |
+  #     Responsibilities include:
+  #     - Migrated infrastructure to a new data center
+  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
