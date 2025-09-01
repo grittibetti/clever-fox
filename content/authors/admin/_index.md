@@ -28,7 +28,7 @@ role: Postdoctoral Fellow
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Georgia Institute of Technology
-    url: ''
+    # url: https://openai.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -91,10 +91,10 @@ work:
     company_name: Georgia Institute of Technology
     company_url: ''
     company_logo: ''
-    date_start: 2024-09-01
+    date_start: 2021-01-01
     date_end: ''
     summary: |2-
-      Co-supervised by [Prof Yu Ding](https://example.com) and [Prof Xiao Liu](https://example.com).
+      Co-supervised by [Prof Yu Ding]() and [Prof Xiao Liu]().
   # - position: Backend Software Engineer
   #   company_name: X
   #   company_url: ''
@@ -109,37 +109,37 @@ work:
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
-skills:
-  - name: Technical Skills
-    items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
+# skills:
+#   - name: Technical Skills
+#     items:
+#       - name: Python
+#         description: ''
+#         percent: 80
+#         icon: code-bracket
+#       - name: Data Science
+#         description: ''
+#         percent: 100
+#         icon: chart-bar
+#       - name: SQL
+#         description: ''
+#         percent: 40
+#         icon: circle-stack
+#   - name: Hobbies
+#     color: '#eeac02'
+#     color_border: '#f0bf23'
+#     items:
+#       - name: Hiking
+#         description: ''
+#         percent: 60
+#         icon: person-simple-walk
+#       - name: Cats
+#         description: ''
+#         percent: 100
+#         icon: cat
+#       - name: Photography
+#         description: ''
+#         percent: 80
+#         icon: camera
 
 languages:
   - name: English
@@ -183,4 +183,4 @@ awards:
 
 ## About Me
 
-Yinsong Wang is a postdoctoral fellow at Georgia Institute of Technology. 
+Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
