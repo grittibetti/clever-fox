@@ -57,13 +57,6 @@ interests:
 education:
   - area: PhD Industrial Engineering
     institution: Northeastern University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). 
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
   - area: MEng Artificial Intelligence
     institution: Massachusetts Institute of Technology
     date_start: 2016-01-01
