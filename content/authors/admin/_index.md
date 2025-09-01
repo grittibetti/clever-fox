@@ -57,43 +57,51 @@ interests:
 education:
   - area: PhD Industrial Engineering
     institution: Northeastern University
-    date_start: 2018-09-01
-    date_end: 2024-08-31
+  - area: MEng Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    date_start: 2016-01-01
+    date_end: 2020-12-31
     summary: |
-      Advised by [Prof. Shahin Shahrampour](https://shahrampour.sites.northeastern.edu/)
-  - area: MS Manufacturing System Engineering and Management
-    institution: The Hong Kong Polytechnic University
-    date_start: 2017-08-01
-    date_end: 2019-01-31
-  - area: BEng Mechanical Engineering
-    institution: Shandong University
-    date_start: 2013-09-01
-    date_end: 2017-06-01
+      GPA: 3.8/4.0
+
+      Courses included:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area: BSc Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    date_start: 2016-01-01
+    date_end: 2020-12-31
+    summary: |
+      GPA: 3.4/4.0
+      
+      Courses included:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Postdoctoral Fellow
-    company_name: Georgia Institute of Technology
+  - position: Director of Cloud Infrastructure
+    company_name: GenCoin
     company_url: ''
     company_logo: ''
-    date_start: 2024-09-01
+    date_start: 2021-01-01
     date_end: ''
-    summary: |
-      Co-advised by [Prof. Yu Ding](https://sites.google.com/view/yuding/home) and [Prof. Xiao Liu](https://sites.google.com/site/liuxiaosite1/)
-  - position: Research Intern
-    company_name: Mitsubishi Electric Research Laboratories (MERL)
-    company_url: 'https://www.merl.com/'
+    summary: |2-
+      Responsibilities include:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - position: Backend Software Engineer
+    company_name: X
+    company_url: ''
     company_logo: ''
-    date_start: 2023-05-01
-    date_end: 2023-08-31
+    date_start: 2016-01-01
+    date_end: 2020-12-31
     summary: |
-      Hosted by Dr. Jing Zhang, Dr. Daniel Nikovski, and Dr. Arvind Raghunathan
-  - position: Research Intern
-    company_name: Mitsubishi Electric Research Laboratories (MERL)
-    company_url: 'https://www.merl.com/'
-    company_logo: ''
-    date_start: 2022-01-01
-    date_end: 2022-04-31
-    summary: |
-      Hosted by Dr. Jing Zhang and Dr. Daniel Nikovski
+      Responsibilities include:
+      - Migrated infrastructure to a new data center
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
