@@ -55,12 +55,12 @@ interests:
   - Information Theory
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
+  - area: PhD Industrial Engineering
+    institution: Northeastern University
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). 
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
@@ -146,11 +146,11 @@ skills:
 
 languages:
   - name: English
-    percent: 100
+    percent: 90
   - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+    percent: 100
+  - name: Spanish
+    percent: 15
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -186,4 +186,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Yinsong Wang is a postdoctoral fellow at Georgia Institute of Technology, H. Milton Stewart School of Industrial and Systems Engineering. He earned his Ph.D. in Industrial Engineering at Northeastern University, his M.S. in Manufacutring System Engineering and Management at The Hong Kong Polytechnic University, and his BEng. in Mechanical Engineering at Shandong University. His research interests spans across data science, machine learning, information theory, and statistics.
